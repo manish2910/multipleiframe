@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: -webkit-flexbox;
+    justify-content: space-between;
+    padding: 10px 0px 0px;
+}
+
+nav input{
+    padding: 8px 12px;
+    max-width: 100%;
+    margin: 0px 10px;
+}
+
+nav button{
+    max-width: 200px;
+    padding: 8px 15px;
+    margin: 0px 10px;
+}

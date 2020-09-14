@@ -1,0 +1,11 @@
+.button_click{
+    border: none;
+    border-radius: 5px;
+    border: 1px solid black;
+    background: #b50236;
+    color: white;
+    outline: none;
+    padding: 5px 12px;
+    font-size:14px;
+    cursor: pointer;
+}
